@@ -1,2 +1,9 @@
-baseurl: 
+title: WangZhe blog
+tagline: ghost in the shell
+
+author:
+    name: WangZhe
+    github: wzbazinga.github.com
+
+baseurl: ""
 theme: jekyll-theme-cayman 
