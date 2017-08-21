@@ -1,9 +1,10 @@
 title: WangZhe blog
-tagline: ghost in the shell
+description: ghost in the shell
 
 author:
     name: WangZhe
     github: wzbazinga.github.com
 
 baseurl: ""
-theme: jekyll-theme-cayman 
+github_username: wzbazinga
+theme: minima
