@@ -1,0 +1,22 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+table {
+    border: 1px solid #C1DAD7;
+    margin-bottom: 20px;
+    background-color: transparent;
+    border-collapse: collapse;
+    border-spacing: 0;
+    display: table;
+}
+th{
+    border: 1px solid #C1DAD7;
+}
+td { 
+    border: 1px solid #C1DAD7; 
+    background: #eee; 
+    font-size:16px; 
+    padding: 6px 6px 6px 12px; 
+} 
